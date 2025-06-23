@@ -3,7 +3,7 @@ import fitz  # PyMuPDF
 import requests
 import json
 
-OLLAMA_URL = "http://localhostd :11434/api/generate"
+OLLAMA_URL = "http://localhost:11434/api/generate"
 
 # Extract text from PDF
 def extract_questions_from_pdf(pdf_file):
