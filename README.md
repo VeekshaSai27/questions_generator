@@ -1,4 +1,4 @@
-AI-Powered Question Paper Augmenter
+# AI-Powered Question Paper Augmenter
 
 The AI-Powered Question Paper Augmenter is an innovative application developed using Streamlit and integrated with Ollama, a local large language model (LLM) platform. This tool is designed to help educators, students, and academic professionals by generating a fresh set of similar questions and answers from any uploaded question paper in PDF format.
 
